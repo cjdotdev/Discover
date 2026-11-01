@@ -2,7 +2,7 @@
 
 But : présenter le projet à notre chargée de cours avec une application qui fonctionne.
 
-On réalise seulement les écrans de la maquette nécessaires au fonctionnement de l'application : **40 maquettes sur 61**. Rien de plus pour le moment.
+On réalise seulement les écrans de la maquette nécessaires au fonctionnement de l'application : **40 maquettes sur 61**, rangées dans `docs/maquette/`. Rien de plus pour le moment.
 
 Ce document répartit le **frontend Flutter**. Le backend est décrit à la fin pour que chacun sache ce que l'API répondra, mais il n'est pas réparti pour l'instant.
 
