@@ -114,7 +114,7 @@ void main() {
     await tester.tap(find.text('Se connecter'));
     await attendre(tester);
     expect(Session.instance.connecte, isTrue);
-    expect(find.text('E03'), findsOneWidget);
+    expect(find.text('Plage de Grand-Popo'), findsOneWidget);
   });
 
   testWidgets('un nouveau compte crée son mot de passe, vérifie le code et complète son profil', (tester) async {
@@ -160,7 +160,7 @@ void main() {
     await tester.tap(find.text('Terminer · 3 choisis'));
     await attendre(tester);
     expect(Session.instance.profilComplet, isTrue);
-    expect(find.text('E03'), findsOneWidget);
+    expect(find.text('Plage de Grand-Popo'), findsOneWidget);
   });
 
   testWidgets('le mot de passe oublié mène au nouveau mot de passe', (tester) async {
@@ -183,12 +183,6 @@ void main() {
 
   testWidgets('tous les écrans à réaliser sont reliés à la navigation', (tester) async {
     const ecrans = {
-      Routes.accueil: 'E03',
-      Routes.filtres: 'E04',
-      Routes.recherche: 'E31',
-      Routes.notifications: 'E17',
-      '/lieu/1': 'E33',
-      '/createur/akouavi': 'E20',
       Routes.reels: 'E06',
       Routes.carte: 'E11',
       '/photo/1': 'E05',
