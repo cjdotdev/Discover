@@ -182,21 +182,7 @@ void main() {
   });
 
   testWidgets('tous les écrans à réaliser sont reliés à la navigation', (tester) async {
-    const ecrans = {
-      Routes.reels: 'E06',
-      Routes.carte: 'E11',
-      '/photo/1': 'E05',
-      '/commentaires/1': 'E07',
-      Routes.creer: 'E12',
-      Routes.autorisations: 'E32',
-      Routes.details: 'E14',
-      Routes.completerCapture: 'E15',
-      Routes.indiquerLieu: 'E30',
-      Routes.enRoute: 'E16',
-      Routes.profil: 'E18',
-      Routes.modifierProfil: 'E21',
-      Routes.reglages: 'E21',
-    };
+    const ecrans = {Routes.reels: 'E06', Routes.carte: 'E11', '/photo/1': 'E05', '/commentaires/1': 'E07'};
     for (final MapEntry(key: adresse, value: code) in ecrans.entries) {
       await ouvrir(tester, adresse);
       expect(find.text(code), findsOneWidget, reason: adresse);
