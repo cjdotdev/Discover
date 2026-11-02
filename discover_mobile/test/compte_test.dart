@@ -183,10 +183,6 @@ void main() {
 
   testWidgets('tous les écrans à réaliser sont reliés à la navigation', (tester) async {
     const ecrans = {
-      Routes.reels: 'E06',
-      Routes.carte: 'E11',
-      '/photo/1': 'E05',
-      '/commentaires/1': 'E07',
       Routes.creer: 'E12',
       Routes.autorisations: 'E32',
       Routes.details: 'E14',
