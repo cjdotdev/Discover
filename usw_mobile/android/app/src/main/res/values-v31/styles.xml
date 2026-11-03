@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 12 et plus : l ecran de demarrage du systeme est vide, du fond
+         de l ouverture ; l icone n y apparait pas. On tombe tout de suite sur
+         l animation Let’s Discover. -->
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@drawable/launch_background</item>
+        <item name="android:windowSplashScreenBackground">@color/fond</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/vide</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/fond</item>
+        <item name="android:windowSplashScreenAnimationDuration">0</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@color/fond</item>
+    </style>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Le fond de nuit de Discover (Couleurs.fond la nuit) : un vrai noir. -->
+    <color name="fond">#000000</color>
+    <!-- Le fond de l icone (mipmap-anydpi-v26/ic_launcher.xml), la nuit : noir. -->
+    <color name="icone_fond">#000000</color>
+</resources>
