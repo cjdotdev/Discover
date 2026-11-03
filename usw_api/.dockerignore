@@ -1,0 +1,19 @@
+# Ce qui n'entre pas dans l'image : les secrets (Railway les donne), ce qui se reconstruit,
+# et ce qui vit sur le disque du serveur.
+.env
+.env.*
+!.env.example
+.git
+vendor
+node_modules
+tests
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/app/private/*
+storage/app/public/*
+storage/*.sqlite
+database/*.sqlite
+bootstrap/cache/*.php
+.phpunit.cache
