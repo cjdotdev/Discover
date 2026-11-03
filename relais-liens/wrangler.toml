@@ -1,0 +1,8 @@
+# Le relais de discover.simeonamoussou.com (Cloudflare Workers) : les liens partagés de Discover
+# viennent du serveur Railway. Cloudflare crée lui-même le DNS et le certificat du domaine.
+# Déployer : npx wrangler@4 deploy (depuis ce dossier).
+name = "discover-liens"
+main = "relais.js"
+compatibility_date = "2025-09-01"
+workers_dev = false
+routes = [{ pattern = "discover.simeonamoussou.com", custom_domain = true }]

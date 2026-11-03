@@ -1,0 +1,20 @@
+# Discover : ni secrets ni fichiers construits dans le dépôt (dépôt public).
+# Chaque dossier a aussi son propre .gitignore.
+.env
+*.env
+.env.*
+!.env.example
+*.apk
+*.aab
+*.keystore
+*.jks
+key.properties
+cles.json
+google-services.json
+GoogleService-Info.plist
+firebase-serveur.json
+.railway-jeton
+.wrangler/
+.dev.vars
+.DS_Store
+Thumbs.db

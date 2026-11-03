@@ -1,0 +1,501 @@
+SANS EFFET VISIBLE (79)
+  entree · Entrez votre adresse e-mail
+  mot-de-passe · Entrez votre mot de passe
+  mot-de-passe · Afficher le mot de passe
+  creer-mdp · Créez votre mot de passe
+  creer-mdp · Afficher le mot de passe
+  creer-mdp · Continuer Continuer
+  oubli · akouavi.kossou@gmail.com
+  completer-1 · Étape 1 sur 3 Retour Étape 1 sur 3
+  completer-1 · Akouavi K.
+  completer-1 · akouavi.kossou
+  completer-1 · Ce que vous aimez photographier, en une phrase
+  completer-2 · Étape 2 sur 3 Retour Étape 2 sur 3
+  completer-2 · Utiliser ma position Pour vous montrer les lieux proches. Modifiable à tout moment dans les réglages.
+  accueil · Accueil
+  recherche · Un lieu, un créateur, une envie
+  recherche · Cascades et rivières Cascades et rivières
+  recherche · Savane et parcs Savane et parcs
+  recherche · Lacs et lagunes Lacs et lagunes
+  recherche · Collines Collines
+  recherche · Rues de Porto-Novo Rues de Porto-Novo
+  recherche · Couchers de soleil Couchers de soleil
+  recherche · Pistes et sentiers Pistes et sentiers
+  recherche · Bord de mer Bord de mer
+  recherche · Forêts sacrées Forêts sacrées
+  lieu · Enregistrer le lieu
+  lieu · Y aller Y aller
+  photo · Je n'aime plus 2,1 k
+  photo · Y aller Y aller
+  createur · Publications
+  collection · Partager la collection
+  reglages · Retour
+  reglages · Photos en qualité réduite en 3G
+  reglages · Lire les reels en Wi-Fi seulement
+  reglages · Envois en Wi-Fi seulement
+  modifier · AK Changer la photo
+  modifier · Akouavi K.
+  modifier · akouavi.kossou
+  modifier · Photos du golfe de Guinée, de Ouidah à Grand-Popo.
+  modifier · akouavi.photo
+  acces · Retour E-mail et mot de passe
+  acces · E-mail akouavi.kossou@gmail.com Changer
+  acces · Connexion Google Liée
+  bloques · Retour Comptes bloqués
+  bloques · Débloquer Débloquer
+  bloques · Débloquer Débloquer
+  notif-reglages · Retour Notifications
+  notif-reglages · Autoriser les notifications
+  notif-reglages · Tout mettre en pause 8 h
+  notif-reglages · J'aime et réactions
+  notif-reglages · Commentaires et réponses
+  notif-reglages · Mentions
+  notif-reglages · Nouveaux abonnés
+  notif-reglages · Publication vérifiée
+  notif-reglages · Envoi terminé
+  notif-reglages · Nouvelles publications
+  autoriser · (sans nom)
+  autoriser · (sans nom)
+  autoriser · (sans nom)
+  camera-reel · Photo
+  details · Les pirogues rentrent au coucher du soleil, côté Possotomé.
+  details · Lac et lagune Lac et lagune
+  details · Plage Plage
+  details · Village Village
+  details · Nature Nature
+  envois · Retour
+  envois · Annuler l'envoi
+  envois · Reprendre
+  envois · Annuler l'envoi
+  aide · Rechercher dans l'aide
+  aide · Publier une photo Publier une photo
+  aide · Capture vérifiée Capture vérifiée
+  aide · Y aller et Maps Y aller et Maps
+  aide · Mon compte Mon compte
+  aide · Envoi en 3G Envoi en 3G
+  aide · Signaler un contenu Signaler un contenu
+  aide · Pourquoi ma photo n'a pas le badge « Capture vérifiée » ?
+  moderation · À vérifier  12 À vérifier  12
+  moderation · Signalements  5 Signalements  5
+  decision · Retour Dossier 1 sur 12
+
+MESSAGES D ATTENTE (15)
+  completer-1 · Ajouter une photo : La galerie arrivera avec la création (lot 3).
+  accueil · Ponton de Ouidah, 112 photos Ponton de Ouidah 112 photos : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+  accueil · Reels : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+  recherche · Reels : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+  lieu · Reels : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+  photo · Reels : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+  createur · Reels : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+  carte · Reels : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+  profil · Reel de @kofi_dzi 0:18 Lac Ahémé, Possotomé Samsung Galaxy A55 : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+  profil · Reels : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+  collection · Reels : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+  reglages · Reels : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+  modifier · Reels : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+  acces · Reels : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+  bloques · Reels : Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne.
+
+DETAIL
+== bienvenue (/bienvenue) : 2 éléments
+  - Passer : → /entree
+  - Suivant Suivant : ERREUR Multiple exceptions (3) were detected during the running of the current test, and at least one was unexpected.
+
+== entree (/entree) : 3 éléments
+  - Entrez votre adresse e-mail : aucun changement visible
+  - Continuer Continuer : + Indiquez votre adresse e-mail.
+  - Continuer avec Google Continuer avec Google : → /completer/1
+
+== mot-de-passe (/entree/mot-de-passe) : 6 éléments
+  - Retour : → /entree
+  - Changer : → /entree
+  - Entrez votre mot de passe : aucun changement visible
+  - Afficher le mot de passe : aucun changement visible
+  - Mot de passe oublié ? : + Mot de passe oublié | Indiquez l'e-mail du compte : nous y enverrons un code pour choisir un nouveau mot de passe. | Entrez votre adresse e-mail
+  - Se connecter Se connecter : + Mot de passe incorrect. Encore 4 essais.
+
+== creer-mdp (/entree/creer) : 4 éléments
+  - Retour : → /entree
+  - Créez votre mot de passe : aucun changement visible
+  - Afficher le mot de passe : aucun changement visible
+  - Continuer Continuer : aucun changement visible
+
+== code (/entree/code) : 4 éléments
+  - Retour : ERREUR Multiple exceptions (4) were detected during the running of the current test, and at least one was unexpected.
+  - (sans nom) : ERREUR A RenderFlex overflowed by 4.8 pixels on the right.
+  - Vérifier Vérifier : ERREUR A RenderFlex overflowed by 4.8 pixels on the right.
+  - La corriger : ERREUR A RenderFlex overflowed by 4.8 pixels on the right.
+
+== oubli (/entree/oubli) : 4 éléments
+  - Retour : → /entree
+  - akouavi.kossou@gmail.com : aucun changement visible
+  - Envoyer le code Envoyer le code : ERREUR A RenderFlex overflowed by 4.8 pixels on the right.
+  - Se connecter : → /entree
+
+== nouveau-mdp (/entree/nouveau) : 6 éléments
+  - Retour : ERREUR Multiple exceptions (5) were detected during the running of the current test, and at least one was unexpected.
+  - Nouveau mot de passe : ERREUR A RenderFlex overflowed by 207 pixels on the right.
+  - Afficher le mot de passe : ERREUR A RenderFlex overflowed by 207 pixels on the right.
+  - Confirmez le mot de passe : ERREUR A RenderFlex overflowed by 207 pixels on the right.
+  - Afficher le mot de passe : ERREUR A RenderFlex overflowed by 207 pixels on the right.
+  - Enregistrer Enregistrer : ERREUR A RenderFlex overflowed by 207 pixels on the right.
+
+== completer-1 (/completer/1) : 6 éléments
+  - Étape 1 sur 3 Retour Étape 1 sur 3 : aucun changement visible
+  - Ajouter une photo : + USW | maintenant | La galerie arrivera avec la création (lot 3).
+  - Akouavi K. : aucun changement visible
+  - akouavi.kossou : aucun changement visible
+  - Ce que vous aimez photographier, en une phrase : aucun changement visible
+  - Continuer Continuer : + Étape 2 sur 3 | D'où êtes-vous ? | Pour vous montrer d'abord les lieux près de chez vous.
+
+== completer-2 (/completer/2) : 5 éléments
+  - Étape 2 sur 3 Retour Étape 2 sur 3 : aucun changement visible
+  - Pays Pays : Bénin Bénin : + Togo | Nigeria | Ghana
+  - Ville Ville : Cotonou Cotonou : + Porto-Novo | Abomey-Calavi | Parakou
+  - Utiliser ma position Pour vous montrer les lieux proches. Modifiable à tout moment dans les réglages. : aucun changement visible
+  - Continuer Continuer : + Étape 3 sur 3 | Passer | Ce que vous aimez voir
+
+== completer-3 (/completer/3) : 12 éléments
+  - Retour : → /entree
+  - Passer : → /accueil
+  - Plages Plages : + Encore 2 à choisir
+  - Cascades Cascades : + Encore 1 à choisir
+  - Savane et parcs Savane et parcs : + Terminer · 3 choisis
+  - Lacs et lagunes Lacs et lagunes : + Terminer · 4 choisis
+  - Villes et rues Villes et rues : + Terminer · 5 choisis
+  - Collines Collines : + Terminer · 6 choisis
+  - Forêts Forêts : + Terminer · 7 choisis
+  - Couchers de soleil Couchers de soleil : + Terminer · 8 choisis
+  - Patrimoine Patrimoine : + Terminer · 9 choisis
+  - Encore 3 à choisir Encore 3 à choisir : → /accueil
+
+== accueil (/accueil) : 13 éléments
+  - Plage de Grand-Popo, 186 photos Plage de Grand-Popo 186 photos : + Plage  | de  | Grand-Popo
+  - Lac Ahémé, Possotomé, 131 photos Lac Ahémé, Possotomé 131 photos : + Lac  | Ahémé,  | Possotomé
+  - Ponton de Ouidah, 112 photos Ponton de Ouidah 112 photos : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Cascade de Kota, 97 photos Cascade de Kota 97 photos : + Cascade  | de  | Kota
+  - Parc de la Pendjari, 248 photos Parc de la Pendjari 248 photos : + Parc  | de  | la 
+  - Collines de Dassa-Zoumé, 74 photos Collines de Dassa-Zoumé 74 photos : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Rechercher : + Un lieu, un créateur, une envie | Ganvié | Cascades du Nord
+  - Notifications : + Notifications | Aujourd'hui | MS
+  - Accueil : aucun changement visible
+  - Reels : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Créer : + Créer | Prendre une photo | Avec l'appareil photo du téléphone, tous ses modes
+  - Carte : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Profil : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+
+== recherche (/accueil/recherche) : 22 éléments
+  - Retour : → /accueil
+  - Un lieu, un créateur, une envie : aucun changement visible
+  - Filtres : + Filtres | Pays | Bénin
+  - Ganvié Ganvié : + Aucun résultat pour « Ganvié » | Essayez un mot plus court, ou retirez un filtre. | Lieux proches de votre recherche
+  - Cascades du Nord Cascades du Nord : + Aucun résultat pour « Cascades du Nord » | Vouliez-vous dire  | Cascade de Kota
+  - Grand-Popo Grand-Popo : + 1 lieu | Plage de Grand-Popo | 186 photos
+  - @senan.voyage @senan.voyage : + Aucun résultat pour « @senan.voyage » | Essayez un mot plus court, ou retirez un filtre. | Lieux proches de votre recherche
+  - Plages du golfe Plages du golfe : + 2 lieux · Plages | Plage de Grand-Popo | 186 photos
+  - Cascades et rivières Cascades et rivières : aucun changement visible
+  - Savane et parcs Savane et parcs : aucun changement visible
+  - Lacs et lagunes Lacs et lagunes : aucun changement visible
+  - Collines Collines : aucun changement visible
+  - Rues de Porto-Novo Rues de Porto-Novo : aucun changement visible
+  - Couchers de soleil Couchers de soleil : aucun changement visible
+  - Pistes et sentiers Pistes et sentiers : aucun changement visible
+  - Bord de mer Bord de mer : aucun changement visible
+  - Forêts sacrées Forêts sacrées : aucun changement visible
+  - Accueil : → /accueil
+  - Reels : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Créer : + Créer | Prendre une photo | Avec l'appareil photo du téléphone, tous ses modes
+  - Carte : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Profil : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+
+== lieu (/accueil/lieu/grand-popo) : 14 éléments
+  - Photo de @senan.voyage @senan.voyage iPhone 14 Pro : + 2,1 k | 48 | Les cocotiers de Grand-Popo
+  - Reel de @kofi_dzi 0:18 @kofi_dzi Samsung Galaxy A55 : + 194 | 5 | Plage de Grand-Popo
+  - Photo de @aicha.k @aicha.k Tecno Camon 30 : + 157 | 4 | Plage de Grand-Popo
+  - Photo de @marius.b @marius.b Infinix Note 40 : + 231 | 6 | Plage de Grand-Popo
+  - Photo de @ola.photo @ola.photo Tecno Camon 50 Pro : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Retour : → /accueil
+  - Enregistrer le lieu : aucun changement visible
+  - Partager : ERREUR A RenderFlex overflowed by 12 pixels on the bottom.
+  - Y aller Y aller : aucun changement visible
+  - Accueil : → /accueil
+  - Reels : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Créer : + Créer | Prendre une photo | Avec l'appareil photo du téléphone, tous ses modes
+  - Carte : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Profil : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+
+== photo (/accueil/lieu/grand-popo/photo/0) : 13 éléments
+  - Voir la photo en plein écran : + Original
+  - Retour : → /accueil/lieu/grand-popo
+  - Plus d'options : + Cette photo | Enregistrer | Télécharger l'original
+  - Je n'aime plus 2,1 k : aucun changement visible
+  - Commentaires 48 : + Auteur | Le sentier part derrière le campement, 20 min de marche. Prenez des sandales qui tiennent. | 1 j
+  - Partager : ERREUR A RenderFlex overflowed by 12 pixels on the bottom.
+  - Télécharger l'original : + Télécharger la photo | Photo JPEG · taille d’origine | Original · 9 Mo
+  - Y aller Y aller : aucun changement visible
+  - Accueil : → /accueil
+  - Reels : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Créer : + Créer | Prendre une photo | Avec l'appareil photo du téléphone, tous ses modes
+  - Carte : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Profil : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+
+== createur (/accueil/createur/senan.voyage) : 15 éléments
+  - Retour : → /accueil
+  - Partager le profil : ERREUR A RenderFlex overflowed by 12 pixels on the bottom.
+  - Plus d'options : + Partager le profil | Copier le lien | Bloquer Sènan Voyage
+  - S'abonner S'abonner : + 3 421 abonnés | Abonné
+  - Partager Partager : ERREUR A RenderFlex overflowed by 12 pixels on the bottom.
+  - Publications : aucun changement visible
+  - Reels : ERREUR Multiple exceptions (8) were detected during the running of the current test, and at least one was unexpected.
+  - Photo de @senan.voyage Cascade de Kota iPhone 14 Pro : + 120 | 3 | Y aller
+  - Photo de @senan.voyage Sentiers de l'Atacora iPhone 14 Pro : + 120 | 3 | Y aller
+  - Photo de @aicha.k Parc de la Pendjari Tecno Camon 30 : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Accueil : → /accueil
+  - Reels : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Créer : + Créer | Prendre une photo | Avec l'appareil photo du téléphone, tous ses modes
+  - Carte : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Profil : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+
+== reels (/reels) : 21 éléments
+  - (sans nom) : ERREUR Multiple exceptions (9) were detected during the running of the current test, and at least one was unexpected.
+  - SV : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - (sans nom) : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - J'aime : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - 12,4 k : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Commentaires : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Enregistrer : ERREUR Multiple exceptions (11) were detected during the running of the current test, and at least one was unexpected.
+  - Partager : ERREUR Multiple exceptions (12) were detected during the running of the current test, and at least one was unexpected.
+  - senan.voyage : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - S'abonner : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Le bruit de la chute couvre tout. Arrivez avant 9 h, l'eau est encore fraîche et il n'y a personne. : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Y aller · 512 km Y aller · 512 km : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Abonnements : ERREUR Multiple exceptions (15) were detected during the running of the current test, and at least one was unexpected.
+  - Découverte : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Près de moi : ERREUR Multiple exceptions (18) were detected during the running of the current test, and at least one was unexpected.
+  - Rechercher : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Accueil : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Reels : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Créer : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Carte : ERREUR Multiple exceptions (19) were detected during the running of the current test, and at least one was unexpected.
+  - Profil : ERREUR Multiple exceptions (20) were detected during the running of the current test, and at least one was unexpected.
+
+== carte (/carte) : 16 éléments
+  - (sans nom) : ERREUR Multiple exceptions (21) were detected during the running of the current test, and at least one was unexpected.
+  - 4 lieux 4 : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - 3 lieux 3 : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Collines de Dassa-Zoumé : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Rechercher un lieu Rechercher un lieu : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Filtres : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Tout Tout : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Reels Reels : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Photos Photos : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Captures vérifiées Captures vérifiées : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Ma position : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Accueil : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Reels : ERREUR Multiple exceptions (22) were detected during the running of the current test, and at least one was unexpected.
+  - Créer : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Carte : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Profil : ERREUR Multiple exceptions (23) were detected during the running of the current test, and at least one was unexpected.
+
+== profil (/profil) : 15 éléments
+  - Partager le profil : ERREUR Multiple exceptions (24) were detected during the running of the current test, and at least one was unexpected.
+  - Mes envois : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+  - Réglages : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+  - Publications : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+  - Reels : ERREUR Multiple exceptions (27) were detected during the running of the current test, and at least one was unexpected.
+  - Enregistrés : ERREUR Multiple exceptions (38) were detected during the running of the current test, and at least one was unexpected.
+  - Photo de @senan.voyage Plage de Grand-Popo iPhone 14 Pro : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+  - Reel de @kofi_dzi 0:18 Lac Ahémé, Possotomé Samsung Galaxy A55 : ERREUR Multiple exceptions (39) were detected during the running of the current test, and at least one was unexpected.
+  - Photo de @aicha.k Ponton de Ouidah Tecno Camon 30 : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+  - Photo de @senan.voyage Rues de Porto-Novo iPhone 14 Pro : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+  - Accueil : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+  - Reels : ERREUR Multiple exceptions (40) were detected during the running of the current test, and at least one was unexpected.
+  - Créer : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+  - Carte : ERREUR Multiple exceptions (41) were detected during the running of the current test, and at least one was unexpected.
+  - Profil : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+
+== collection (/profil/collection/0) : 13 éléments
+  - Retour : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+  - Partager la collection : aucun changement visible
+  - Plus d'options : + Renommer | Rendre publique | Supprimer la collection
+  - Photo de @aicha.k @aicha.k Tecno Camon 30 : + 157 | 4 | Y aller
+  - Photo de @senan.voyage @senan.voyage iPhone 14 Pro : + 120 | 3 | Y aller
+  - Photo de @senan.voyage @senan.voyage iPhone 14 Pro : + 120 | 3 | Y aller
+  - Photo de @marius.b @marius.b Infinix Note 40 : + 231 | 6 | Y aller
+  - Photo de @senan.voyage @senan.voyage iPhone 14 Pro : + 342 | 9 | Y aller
+  - Accueil : → /accueil
+  - Reels : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Créer : + Créer | Prendre une photo | Avec l'appareil photo du téléphone, tous ses modes
+  - Carte : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Profil : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+
+== reglages (/profil/reglages) : 14 éléments
+  - Retour : aucun changement visible
+  - Modifier le profil AK Akouavi K. akouavi.kossou@gmail.com : + Terminé | Ces informations sont visibles par tous, à côté de vos photos. | Nom affiché
+  - Modifier le profil : + Terminé | Ces informations sont visibles par tous, à côté de vos photos. | Nom affiché
+  - E-mail et mot de passe : + E-mail | Changer | Mot de passe
+  - Comptes bloqués 2 : + Ils ne voient plus vos publications et ne peuvent plus vous écrire. Ils ne sont pas prévenus. | KS | Kodjo Spam
+  - Photos en qualité réduite en 3G : aucun changement visible
+  - Lire les reels en Wi-Fi seulement : aucun changement visible
+  - Envois en Wi-Fi seulement : aucun changement visible
+  - Affichage Thème Comme le téléphone : + Créer | Prendre une photo | Avec l'appareil photo du téléphone, tous ses modes
+  - Accueil : → /accueil
+  - Reels : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Créer : + Créer | Prendre une photo | Avec l'appareil photo du téléphone, tous ses modes
+  - Carte : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Profil : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+
+== modifier (/profil/modifier) : 12 éléments
+  - Retour : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+  - Terminé Terminé : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+  - AK Changer la photo : aucun changement visible
+  - Akouavi K. : aucun changement visible
+  - akouavi.kossou : aucun changement visible
+  - Photos du golfe de Guinée, de Ouidah à Grand-Popo. : aucun changement visible
+  - akouavi.photo : aucun changement visible
+  - Accueil : → /accueil
+  - Reels : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Créer : + Créer | Prendre une photo | Avec l'appareil photo du téléphone, tous ses modes
+  - Carte : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Profil : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+
+== acces (/profil/acces) : 9 éléments
+  - Retour E-mail et mot de passe : aucun changement visible
+  - E-mail akouavi.kossou@gmail.com Changer : aucun changement visible
+  - Mot de passe Changer le mot de passe : ERREUR A RenderFlex overflowed by 4.8 pixels on the right.
+  - Connexion Google Liée : aucun changement visible
+  - Accueil : → /accueil
+  - Reels : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Créer : + Créer | Prendre une photo | Avec l'appareil photo du téléphone, tous ses modes
+  - Carte : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Profil : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+
+== bloques (/profil/bloques) : 8 éléments
+  - Retour Comptes bloqués : aucun changement visible
+  - Débloquer Débloquer : aucun changement visible
+  - Débloquer Débloquer : aucun changement visible
+  - Accueil : → /accueil
+  - Reels : ERREUR A RenderFlex overflowed by 40 pixels on the right.
+  - Créer : + Créer | Prendre une photo | Avec l'appareil photo du téléphone, tous ses modes
+  - Carte : ERREUR A RenderFlex overflowed by 19 pixels on the right.
+  - Profil : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+
+== notifications (/notifications) : 8 éléments
+  - Retour : → /accueil
+  - Réglages des notifications : + Autoriser les notifications | Tout mettre en pause 8 h | Votre activité
+  - Mawuli S. a aimé votre photo. MS Mawuli S. a aimé votre photo.  2 min : + 2,1 k | 48 | Y aller
+  - Kofi D. a commenté : « Quelle lumière, à quelle heure ? » KD Kofi D. a commenté : « Quelle lumière, à quelle heure ? »  1 h : + 120 | 3 | Y aller
+  - Votre photo Ponton de Ouidah est en ligne, avec le badge Capture vérifiée. Votre photo Ponton de Ouidah est en ligne, avec le badge Capture vérifiée.  3 h : + 120 | 3 | Y aller
+  - Votre envoi de 3 photos est terminé. Votre envoi de 3 photos est terminé.  5 h : + Mes envois | Un envoi coupé reprend où il s'était arrêté, dès que le réseau revient. | En cours
+  - Aïcha K. s'est abonnée à vous. AK Aïcha K. s'est abonnée à vous.  2 j : + Abonné | HT | @hounkpe vous a mentionnée : « @akouavi.k regarde ce coucher de soleil »  3 j
+  - S'abonner S'abonner : + Abonné | HT | @hounkpe vous a mentionnée : « @akouavi.k regarde ce coucher de soleil »  3 j
+
+== notif-reglages (/notifications/reglages) : 10 éléments
+  - Retour Notifications : aucun changement visible
+  - Autoriser les notifications : aucun changement visible
+  - Tout mettre en pause 8 h : aucun changement visible
+  - J'aime et réactions : aucun changement visible
+  - Commentaires et réponses : aucun changement visible
+  - Mentions : aucun changement visible
+  - Nouveaux abonnés : aucun changement visible
+  - Publication vérifiée : aucun changement visible
+  - Envoi terminé : aucun changement visible
+  - Nouvelles publications : aucun changement visible
+
+== motif (/notifications/motif) : 3 éléments
+  - Retour : → /notifications
+  - Demander une vérification Demander une vérification : + Demande envoyée
+  - Lire les règles Lire les règles : + Règles communautaires | Six règles pour que chaque photo dise vrai · 3 min de lecture | Pris sur place, par vous
+
+== autoriser (/creer/autoriser) : 4 éléments
+  - Retour : → /entree
+  - (sans nom) : aucun changement visible
+  - (sans nom) : aucun changement visible
+  - (sans nom) : aucun changement visible
+
+== camera-reel (/creer/reel) : 6 éléments
+  - Fermer : ERREUR GoError: There is nothing to pop
+  - Minuteur coupé : + 3 s
+  - Effacer la dernière séquence : + 0:11 / 0:30
+  - Filmer : + 0:19 / 0:30
+  - Suivant Suivant : ERREUR A RenderFlex overflowed by 47 pixels on the right.
+  - Photo : aucun changement visible
+
+== montage (/creer/montage) : 10 éléments
+  - Retour : ERREUR Multiple exceptions (43) were detected during the running of the current test, and at least one was unexpected.
+  - Suivant Suivant : ERREUR A RenderFlex overflowed by 47 pixels on the right.
+  - Couper : ERREUR A RenderFlex overflowed by 47 pixels on the right.
+  - Texte : ERREUR A RenderFlex overflowed by 47 pixels on the right.
+  - Son : ERREUR A RenderFlex overflowed by 47 pixels on the right.
+  - Réordonner : ERREUR A RenderFlex overflowed by 47 pixels on the right.
+  - Supprimer : ERREUR A RenderFlex overflowed by 47 pixels on the right.
+  - 11 s : ERREUR A RenderFlex overflowed by 47 pixels on the right.
+  - 9 s : ERREUR A RenderFlex overflowed by 47 pixels on the right.
+  - 8 s : ERREUR A RenderFlex overflowed by 47 pixels on the right.
+
+== completer-infos (/creer/completer) : 5 éléments
+  - Retour : ERREUR Multiple exceptions (44) were detected during the running of the current test, and at least one was unexpected.
+  - Tapez le modèle : ERREUR A RenderFlex overflowed by 273 pixels on the right.
+  - C'est ce téléphone : Tecno Camon 50 Pro : ERREUR A RenderFlex overflowed by 273 pixels on the right.
+  - Mars 2019 : ERREUR A RenderFlex overflowed by 273 pixels on the right.
+  - Indiquer le lieu Pas de GPS dans le fichier Indiquer : ERREUR Multiple exceptions (45) were detected during the running of the current test, and at least one was unexpected.
+
+== details (/creer/details) : 8 éléments
+  - Retour : → /entree
+  - Les pirogues rentrent au coucher du soleil, côté Possotomé. : aucun changement visible
+  - Changer le lieu Lac Ahémé, Possotomé, Mono : ERREUR A RenderFlex overflowed by 34 pixels on the right.
+  - Lac et lagune Lac et lagune : aucun changement visible
+  - Plage Plage : aucun changement visible
+  - Village Village : aucun changement visible
+  - Nature Nature : aucun changement visible
+  - Publier Publier : → /accueil
+
+== choisir-lieu (/creer/lieu) : 3 éléments
+  - (sans nom) : ERREUR Multiple exceptions (46) were detected during the running of the current test, and at least one was unexpected.
+  - Retour : ERREUR Multiple exceptions (47) were detected during the running of the current test, and at least one was unexpected.
+  - Choisir ce lieu Choisir ce lieu : ERREUR Multiple exceptions (48) were detected during the running of the current test, and at least one was unexpected.
+
+== envois (/creer/envois) : 5 éléments
+  - Retour : aucun changement visible
+  - Mettre en pause : + Publiée à l’instant, Capture vérifiée
+  - Annuler l'envoi : aucun changement visible
+  - Reprendre : aucun changement visible
+  - Annuler l'envoi : aucun changement visible
+
+== aide (/document/aide) : 9 éléments
+  - Retour : → /accueil
+  - Rechercher dans l'aide : aucun changement visible
+  - Publier une photo Publier une photo : aucun changement visible
+  - Capture vérifiée Capture vérifiée : aucun changement visible
+  - Y aller et Maps Y aller et Maps : aucun changement visible
+  - Mon compte Mon compte : aucun changement visible
+  - Envoi en 3G Envoi en 3G : aucun changement visible
+  - Signaler un contenu Signaler un contenu : aucun changement visible
+  - Pourquoi ma photo n'a pas le badge « Capture vérifiée » ? : aucun changement visible
+
+== regles (/document/regles) : 1 éléments
+  - Retour : → /accueil
+
+== moderation (/moderation) : 9 éléments
+  - Retour : ERREUR GoError: There is nothing to pop
+  - Filtres : + Trier la file | Les plus urgents d'abord | Signes d’IA forts et signalements nombreux en tête
+  - À vérifier  12 À vérifier  12 : aucun changement visible
+  - Signalements  5 Signalements  5 : aucun changement visible
+  - Côte de Sèmè au matin @koffi.photo · photo Signes d'IA · 72 % 12 min : + Dossier 1 sur 12 | K | @koffi.photo · 214 publications, aucun retrait
+  - Cascade de Kota @senan.voyage · reel Signalé 3 fois · pas pris à cet endroit 40 min : + Dossier 2 sur 12 | S | @senan.voyage · 214 publications, aucun retrait
+  - Collines de Dassa @aminata.d · photo Téléphone déclaré, pas lu dans le fichier 1 h : + Dossier 3 sur 12 | A | @aminata.d · 214 publications, aucun retrait
+  - Marché Dantokpa @yao.b · photo Visages en gros plan 2 h : + Dossier 4 sur 12 | Y | @yao.b · 214 publications, aucun retrait
+  - Ganvié au lever @lagune.229 · reel Signes d'IA · 41 % 3 h : + Dossier 5 sur 12 | L | @lagune.229 · 214 publications, aucun retrait
+
+== decision (/moderation/decision) : 1 éléments
+  - Retour Dossier 1 sur 12 : aucun changement visible
+
+== hors-ligne (/etat/hors-ligne) : 3 éléments
+  - Retour : → /accueil
+  - Voir les photos enregistrées Voir les photos enregistrées : ERREUR A RenderFlex overflowed by 103 pixels on the right.
+  - Réessayer Réessayer : → /accueil
+
+== refusee (/etat/refusee) : 3 éléments
+  - Retour : → /accueil
+  - Demander une vérification Demander une vérification : → /accueil
+  - Lire les règles Lire les règles : + Règles communautaires | Six règles pour que chaque photo dise vrai · 3 min de lecture | Pris sur place, par vous

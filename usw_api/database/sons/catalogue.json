@@ -1,0 +1,595 @@
+{
+ "sources": "Kevin MacLeod, incompetech.com : licence Creative Commons Attribution 4.0 (usage commercial et synchronisation permis, en citant l auteur).",
+ "sons": [
+  {
+   "cle": "incompetech:Allada.mp3",
+   "titre": "Allada",
+   "artiste": "Kevin MacLeod",
+   "categorie": "afro",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Allada.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Allada » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Bumba Crossing.mp3",
+   "titre": "Bumba Crossing",
+   "artiste": "Kevin MacLeod",
+   "categorie": "afro",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bumba%20Crossing.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Bumba Crossing » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Zanzibar.mp3",
+   "titre": "Zanzibar",
+   "artiste": "Kevin MacLeod",
+   "categorie": "afro",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Zanzibar.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Zanzibar » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Digya.mp3",
+   "titre": "Digya",
+   "artiste": "Kevin MacLeod",
+   "categorie": "afro",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Digya.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Digya » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Dubakupado.mp3",
+   "titre": "Dubakupado",
+   "artiste": "Kevin MacLeod",
+   "categorie": "afro",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dubakupado.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Dubakupado » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Slow Heat.mp3",
+   "titre": "Slow Heat",
+   "artiste": "Kevin MacLeod",
+   "categorie": "afro",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Slow%20Heat.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Slow Heat » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Kalimba Relaxation Music.mp3",
+   "titre": "Kalimba Relaxation Music",
+   "artiste": "Kevin MacLeod",
+   "categorie": "afro",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Kalimba%20Relaxation%20Music.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Kalimba Relaxation Music » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Night Cave.mp3",
+   "titre": "Night Cave",
+   "artiste": "Kevin MacLeod",
+   "categorie": "afro",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20Cave.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Night Cave » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Monkoto.mp3",
+   "titre": "Monkoto",
+   "artiste": "Kevin MacLeod",
+   "categorie": "afro",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Monkoto.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Monkoto » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Lord of the Rangs.mp3",
+   "titre": "Lord of the Rangs",
+   "artiste": "Kevin MacLeod",
+   "categorie": "afro",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lord%20of%20the%20Rangs.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Lord of the Rangs » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:World Vice.mp3",
+   "titre": "World Vice",
+   "artiste": "Kevin MacLeod",
+   "categorie": "afro",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/World%20Vice.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« World Vice » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Freddys Menagerie.mp3",
+   "titre": "Freddy's Menagerie",
+   "artiste": "Kevin MacLeod",
+   "categorie": "afro",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Freddys%20Menagerie.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Freddy's Menagerie » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Island Meet and Greet.mp3",
+   "titre": "Island Meet and Greet",
+   "artiste": "Kevin MacLeod",
+   "categorie": "plage",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Island%20Meet%20and%20Greet.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Island Meet and Greet » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Tiki Bar Mixer.mp3",
+   "titre": "Tiki Bar Mixer",
+   "artiste": "Kevin MacLeod",
+   "categorie": "plage",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Tiki%20Bar%20Mixer.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Tiki Bar Mixer » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Moonlight Beach.mp3",
+   "titre": "Moonlight Beach",
+   "artiste": "Kevin MacLeod",
+   "categorie": "plage",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Moonlight%20Beach.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Moonlight Beach » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Chee Zee Beach.mp3",
+   "titre": "Chee Zee Beach",
+   "artiste": "Kevin MacLeod",
+   "categorie": "plage",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Chee%20Zee%20Beach.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Chee Zee Beach » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Bossa Antigua.mp3",
+   "titre": "Bossa Antigua",
+   "artiste": "Kevin MacLeod",
+   "categorie": "plage",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bossa%20Antigua.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Bossa Antigua » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Apero Hour.mp3",
+   "titre": "Apero Hour",
+   "artiste": "Kevin MacLeod",
+   "categorie": "plage",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Apero%20Hour.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Apero Hour » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Mining by Moonlight.mp3",
+   "titre": "Mining by Moonlight",
+   "artiste": "Kevin MacLeod",
+   "categorie": "plage",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Mining%20by%20Moonlight.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Mining by Moonlight » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Monkeys Spinning Monkeys.mp3",
+   "titre": "Monkeys Spinning Monkeys",
+   "artiste": "Kevin MacLeod",
+   "categorie": "joyeux",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Monkeys%20Spinning%20Monkeys.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Monkeys Spinning Monkeys » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Fluffing a Duck.mp3",
+   "titre": "Fluffing a Duck",
+   "artiste": "Kevin MacLeod",
+   "categorie": "joyeux",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fluffing%20a%20Duck.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Fluffing a Duck » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Wallpaper.mp3",
+   "titre": "Wallpaper",
+   "artiste": "Kevin MacLeod",
+   "categorie": "joyeux",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Wallpaper.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Wallpaper » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Carefree.mp3",
+   "titre": "Carefree",
+   "artiste": "Kevin MacLeod",
+   "categorie": "joyeux",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Carefree.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Carefree » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Happy Alley.mp3",
+   "titre": "Happy Alley",
+   "artiste": "Kevin MacLeod",
+   "categorie": "joyeux",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Happy%20Alley.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Happy Alley » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Cheery Monday.mp3",
+   "titre": "Cheery Monday",
+   "artiste": "Kevin MacLeod",
+   "categorie": "joyeux",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cheery%20Monday.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Cheery Monday » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Feelin Good.mp3",
+   "titre": "Feelin Good",
+   "artiste": "Kevin MacLeod",
+   "categorie": "joyeux",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Feelin%20Good.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Feelin Good » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Jaunty Gumption.mp3",
+   "titre": "Jaunty Gumption",
+   "artiste": "Kevin MacLeod",
+   "categorie": "joyeux",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Jaunty%20Gumption.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Jaunty Gumption » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Off to Osaka.mp3",
+   "titre": "Off to Osaka",
+   "artiste": "Kevin MacLeod",
+   "categorie": "joyeux",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Off%20to%20Osaka.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Off to Osaka » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Batty McFaddin.mp3",
+   "titre": "Batty McFaddin",
+   "artiste": "Kevin MacLeod",
+   "categorie": "joyeux",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Batty%20McFaddin.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Batty McFaddin » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Merry Go.mp3",
+   "titre": "Merry Go",
+   "artiste": "Kevin MacLeod",
+   "categorie": "joyeux",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Merry%20Go.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Merry Go » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Life of Riley.mp3",
+   "titre": "Life of Riley",
+   "artiste": "Kevin MacLeod",
+   "categorie": "joyeux",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Life%20of%20Riley.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Life of Riley » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Funkorama.mp3",
+   "titre": "Funkorama",
+   "artiste": "Kevin MacLeod",
+   "categorie": "energie",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Funkorama.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Funkorama » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Raving Energy.mp3",
+   "titre": "Raving Energy",
+   "artiste": "Kevin MacLeod",
+   "categorie": "energie",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Raving%20Energy.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Raving Energy » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Glitter Blast.mp3",
+   "titre": "Glitter Blast",
+   "artiste": "Kevin MacLeod",
+   "categorie": "energie",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Glitter%20Blast.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Glitter Blast » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Rollin at 5.mp3",
+   "titre": "Rollin at 5",
+   "artiste": "Kevin MacLeod",
+   "categorie": "energie",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Rollin%20at%205.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Rollin at 5 » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Electro Cabello.mp3",
+   "titre": "Electro Cabello",
+   "artiste": "Kevin MacLeod",
+   "categorie": "energie",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Electro%20Cabello.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Electro Cabello » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Bit Shift.mp3",
+   "titre": "Bit Shift",
+   "artiste": "Kevin MacLeod",
+   "categorie": "energie",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bit%20Shift.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Bit Shift » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Werq.mp3",
+   "titre": "Werq",
+   "artiste": "Kevin MacLeod",
+   "categorie": "energie",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Werq.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Werq » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Hackbeat.mp3",
+   "titre": "Hackbeat",
+   "artiste": "Kevin MacLeod",
+   "categorie": "energie",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Hackbeat.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Hackbeat » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Cipher2.mp3",
+   "titre": "Cipher",
+   "artiste": "Kevin MacLeod",
+   "categorie": "energie",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cipher2.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Cipher » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Local Forecast - Elevator.mp3",
+   "titre": "Local Forecast - Elevator",
+   "artiste": "Kevin MacLeod",
+   "categorie": "energie",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Local%20Forecast%20-%20Elevator.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Local Forecast - Elevator » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Wholesome.mp3",
+   "titre": "Wholesome",
+   "artiste": "Kevin MacLeod",
+   "categorie": "calme",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Wholesome.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Wholesome » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Lotus.mp3",
+   "titre": "Lotus",
+   "artiste": "Kevin MacLeod",
+   "categorie": "calme",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lotus.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Lotus » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Ave Marimba.mp3",
+   "titre": "Ave Marimba",
+   "artiste": "Kevin MacLeod",
+   "categorie": "calme",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ave%20Marimba.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Ave Marimba » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Dreamer.mp3",
+   "titre": "Dreamer",
+   "artiste": "Kevin MacLeod",
+   "categorie": "calme",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dreamer.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Dreamer » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Inspired.mp3",
+   "titre": "Inspired",
+   "artiste": "Kevin MacLeod",
+   "categorie": "calme",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Inspired.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Inspired » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Deliberate Thought.mp3",
+   "titre": "Deliberate Thought",
+   "artiste": "Kevin MacLeod",
+   "categorie": "calme",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Deliberate%20Thought.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Deliberate Thought » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Smooth Lovin.mp3",
+   "titre": "Smooth Lovin",
+   "artiste": "Kevin MacLeod",
+   "categorie": "calme",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Smooth%20Lovin.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Smooth Lovin » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Lobby Time.mp3",
+   "titre": "Lobby Time",
+   "artiste": "Kevin MacLeod",
+   "categorie": "calme",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lobby%20Time.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Lobby Time » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Fretless.mp3",
+   "titre": "Fretless",
+   "artiste": "Kevin MacLeod",
+   "categorie": "calme",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fretless.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Fretless » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Easy Lemon.mp3",
+   "titre": "Easy Lemon",
+   "artiste": "Kevin MacLeod",
+   "categorie": "calme",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Easy%20Lemon.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Easy Lemon » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Rainbows.mp3",
+   "titre": "Rainbows",
+   "artiste": "Kevin MacLeod",
+   "categorie": "calme",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Rainbows.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Rainbows » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Call to Adventure.mp3",
+   "titre": "Call to Adventure",
+   "artiste": "Kevin MacLeod",
+   "categorie": "aventure",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Call%20to%20Adventure.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Call to Adventure » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Adventures in Adventureland.mp3",
+   "titre": "Adventures in Adventureland",
+   "artiste": "Kevin MacLeod",
+   "categorie": "aventure",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Adventures%20in%20Adventureland.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Adventures in Adventureland » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Heroic Age.mp3",
+   "titre": "Heroic Age",
+   "artiste": "Kevin MacLeod",
+   "categorie": "aventure",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Heroic%20Age.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Heroic Age » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Arid Foothills.mp3",
+   "titre": "Arid Foothills",
+   "artiste": "Kevin MacLeod",
+   "categorie": "aventure",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Arid%20Foothills.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Arid Foothills » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Expeditionary.mp3",
+   "titre": "Expeditionary",
+   "artiste": "Kevin MacLeod",
+   "categorie": "aventure",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Expeditionary.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Expeditionary » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Thatched Villagers.mp3",
+   "titre": "Thatched Villagers",
+   "artiste": "Kevin MacLeod",
+   "categorie": "aventure",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Thatched%20Villagers.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Thatched Villagers » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  },
+  {
+   "cle": "incompetech:Prelude and Action.mp3",
+   "titre": "Prelude and Action",
+   "artiste": "Kevin MacLeod",
+   "categorie": "aventure",
+   "fichier": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Prelude%20and%20Action.mp3",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "« Prelude and Action » Kevin MacLeod (incompetech.com), licence CC BY 4.0"
+  }
+ ]
+}

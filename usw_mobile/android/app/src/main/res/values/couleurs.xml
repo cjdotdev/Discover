@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Le fond lavande de USW (Couleurs.fond : hsl 229 36 % 92 %). -->
+    <color name="fond">#E3E6F2</color>
+    <!-- Le fond de l icone (mipmap-anydpi-v26/ic_launcher.xml), clair : hsl 229 36 % 92 %. -->
+    <color name="icone_fond">#E3E6F2</color>
+    <!-- La teinte des notifications (Couleurs.ocean). -->
+    <color name="notification">#5D7CFB</color>
+</resources>
