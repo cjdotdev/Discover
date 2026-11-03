@@ -1,0 +1,11 @@
+# L IA de Discover (Cloudflare Workers AI) : elle decrit ce qu on voit sur une photo (ou l affiche
+# d une video) pour la recherche par le contenu. Le serveur Railway l appelle (usw:decrire).
+# Deployer : npx wrangler@4 deploy (depuis ce dossier).
+name = "discover-ia"
+main = "ia.js"
+compatibility_date = "2025-09-01"
+# Son adresse workers.dev : pas de DNS a creer sur le domaine.
+workers_dev = true
+
+[ai]
+binding = "AI"
